@@ -1,6 +1,6 @@
 # Lab-Assignment-CSE-424
 
-- Simple DDA Line Drawing Algorithm
-- Bresenham’s Line Drawing Algorithm
-- Mid Point Circle Drawing Algorithm
-- Bresenham’s Circle Drawing Algorithm
+- [Simple DDA Line Drawing Algorithm](/DDA-Line-Drawing-Algorithm.cpp)
+- [Bresenham’s Line Drawing Algorithm](/Bresenhams-Line-Drawing-Algorithm.cpp)
+- [Mid Point Circle Drawing Algorithm](/DDA-Line-Drawing-Algorithm.cpp)
+- [Bresenham’s Circle Drawing Algorithm](/Bresenhams-Circle-Drawing-Algorithm.cpp)
