@@ -15,6 +15,20 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 
+#define ll long long
+#define ull unsigned long long
+#define ld long double
+#define nl '\n'
+#define fn for(int i = 0; i<n; i++)
+#define ft for(int i = 0; i<t; i++)
+#define wt while(t--)
+#define wn while(n--)
+#define fs first
+#define f first
+#define s second
+#define pf printf
+#define sc scanf
+
 float x=0,y,x2,y2,m,i,j,p;
 int dx=0,dy=0,r;
 
